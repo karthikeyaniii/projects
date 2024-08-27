@@ -45,7 +45,7 @@ def preprocess_input(input_data):
 
 st.title("Income Prediction App")
 st.write("Enter the details below to predict whether the income is above or below $50K.")
-image_path = r'\Gemini_Generated_Image_494b2s494b2s494b (1) (1)'
+image_path = r'\Gemini_Generated_Image_494b2s494b2s494b (1) (1) (1)'
 st.image(image_path,caption='Image census', use_column_width=True)
 
 
